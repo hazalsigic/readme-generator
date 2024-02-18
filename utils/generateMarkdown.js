@@ -31,7 +31,7 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-If you have any questions,
+If you have any questions, <br />
 -Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
 <br />
 -Email me: ${data.email}

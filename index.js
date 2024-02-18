@@ -32,7 +32,7 @@ const questions = [
     choices: [
     'Apache License',
     'GNU General Public License',
-    'MIT License',
+    'MIT',
     'BSD 2-Clause',
     'BSD 3-Clause',
     'Boost',
